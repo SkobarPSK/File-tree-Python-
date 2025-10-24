@@ -6,4 +6,4 @@ A Python script for Termux to generate a file tree with emojis, file counts, and
 ## Usage
 Run the script in Termux:
 ```bash
-python file_tree.py
+python filetree.py
